@@ -1,4 +1,4 @@
-# VL-Biotechnology-Flash
+# VL-Biotechnology and Biomedical Engineering
 
 Virtual Lab Biotechnology flash animations and simulations 
 
